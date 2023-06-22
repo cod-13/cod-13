@@ -36,14 +36,14 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://discord.com/users/605010128521003008" rel="nofollow">
-	 	<img alt="Torrin Leonard's Discord" width="22px" src="" style="max-width: 100%;">
+	<a href="" rel="nofollow">
+	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 	</a>
-	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
-  		<img alt="Torrin Leonard's Twitter" width="22px" src="" style="max-width: 100%;">
+	<a href="" rel="nofollow">
+  		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 	</a>
-	<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" rel="nofollow">
-  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="" style="max-width: 100%;">
+	<a href="" rel="nofollow">
+  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
