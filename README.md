@@ -36,7 +36,7 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="" rel="nofollow">
+	<a href="abc" rel="nofollow">
 	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 	</a>
 	<a href="" rel="nofollow">
